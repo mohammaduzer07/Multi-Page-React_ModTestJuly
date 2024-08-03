@@ -1,0 +1,15 @@
+.detail-page {
+    padding: 20px;
+    text-align: left;
+    margin-top: -15em;
+  }
+  
+  .detail-page img {
+    width: 200px;
+    height: auto;
+  }
+  
+  .detail-page p {
+    text-align: left;
+    margin: 10px 0;
+  }
